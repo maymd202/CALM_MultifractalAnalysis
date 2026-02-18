@@ -7,7 +7,7 @@ https://github.com/maymd202/micro-sam/CALM_sam_finetune.py
 https://github.com/maymd202/micro-sam/CALM_predict_all.py
 
 Post-process CALMs:
-https://github.com/maymd202/CALM_MULTIFRACRALANALYSIS/50_crop.py
+https://github.com/maymd202/CALM_MultiFractalAnalysis/50_crop.py
 
 To create a fine-tuned classifier:
 https://github.com/maymd202/peft/CALM_imclass.py
