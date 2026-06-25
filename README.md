@@ -21,7 +21,7 @@ Code adapted from: Mangrulkar S, Gugger S, Debut L, Belkada Y, Paul S, Bossan B,
 
 The following resources are relevant to the project's topic and may be useful for readers seeking additional background.
 
-# Images Featured 
+### Images Featured 
 
 Jibbe N, Jibbe A, Rajpara A. McCune Albright Syndrome. Kans J Med. 2020;13:49–50.
 
@@ -49,7 +49,7 @@ Moraes FS, Santos WEdM, Salomão GH. Neurofibromatosis type I. 2013;72(2):128–
 
 Alonso DG. Young african woman with birthmark. Neurofibtomatosis. Shutterstock2018.
 
-# Segmentation 
+### Segmentation 
 
 Chakkaravarthy AP, Chandrasekar A, editors. An Automatic Segmentation of Skin Lesion from 
 Dermoscopy Images using Watershed Segmentation. 2018 International Conference on Recent Trends in Electrical, Control and Communication (RTECC); 2018 20–22 March 2018.
@@ -77,7 +77,7 @@ Lopes R, Betrouni N. Fractal and multifractal analysis: a review. Med Image Anal
 Karperien AL, Jelinek HF. Box-Counting Fractal Analysis: A Primer for the Clinician. Adv Neurobiol. 
 2024;36:15–55.
 
-# Fractal Analysis
+### Fractal Analysis
 
 Gould DJ, Vadakkan TJ, Poché RA, Dickinson ME. Multifractal and lacunarity analysis of microvascular 
 220 morphology and remodeling. Microcirculation. 2011;18(2):136–51.
@@ -85,7 +85,7 @@ Gould DJ, Vadakkan TJ, Poché RA, Dickinson ME. Multifractal and lacunarity anal
 Long Y, Chen Y. Multifractal scaling analyses of urban street network structure: The cases of twelve 
 megacities in China. PLOS ONE. 2021;16(2):e0246925.
 
-# Classifier
+### Classifier
 Karperien A. FracLac for ImageJ. 2.5 ed. Bathurst, Australia: Charles Sturt University; 2013.
 Mangrulkar S, Gugger S, Debut L, Belkada Y, Paul S, Bossan B, et al. PEFT: State-of-the-art parameter 
 efficient fine-tuning methods Github2022 [https://github.com/huggingface/peft:[
