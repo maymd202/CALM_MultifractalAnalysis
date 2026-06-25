@@ -4,6 +4,7 @@ Code to replicate results in paper "Quantitative Validation of the “Coastline�
 
 ## To fine-tune Segment Anything:
 https://github.com/maymd202/micro-sam/CALM_sam_finetune.py
+
 https://github.com/maymd202/micro-sam/CALM_predict_all.py
 
 Code adapted from: Archit A, Freckmann L, Nair S, Khalid N, Hilt P, Rajashekar V, et al. Segment Anything for Microscopy. Nat Methods. 2025;22(3):579–91.
