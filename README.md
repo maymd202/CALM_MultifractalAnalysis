@@ -23,7 +23,7 @@ Code adapted from: Mangrulkar S, Gugger S, Debut L, Belkada Y, Paul S, Bossan B,
 
 ## Additional References
 
-The following resources are relevant to the project's topic and may be useful for readers seeking additional background.
+The following resources are relevant to the project's topic and may be useful for readers seeking additional background and resources.
 
 ### Images Featured 
 
