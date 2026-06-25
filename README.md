@@ -3,18 +3,21 @@
 Code to replicate results in paper "Quantitative Validation of the “Coastline” Heuristic for Café-au-Lait Macule Borders in Neurofibromatosis Type 1 and McCune-Albright Syndrome"
 
 ## To fine-tune Segment Anything:
-https://github.com/maymd202/micro-sam/CALM_sam_finetune.py
 
-https://github.com/maymd202/micro-sam/CALM_predict_all.py
+We adapted code from the open-source micro-sam repository for use in this project. Our modified implementation can be found [at this link](https://github.com/maymd202/micro-sam/CALM_sam_finetune.py). We also adapted a code to predict using the trained checkpoint model found [at this link](https://github.com/maymd202/micro-sam/CALM_predict_all.py).
+
+To run the code, please clone the full micro-sam repository and create an environment with the required dependencies before using the adapted script. Here is a link to the [original micro-sam GitHub](https://github.com/computational-cell-analytics/micro-sam).
 
 Code adapted from: Archit A, Freckmann L, Nair S, Khalid N, Hilt P, Rajashekar V, et al. Segment Anything for Microscopy. Nat Methods. 2025;22(3):579–91.
 
 ## Post-process CALMs:
-https://github.com/maymd202/CALM_MultiFractalAnalysis/50_crop.py
 
+A simple script to standardize the size of the macules is found [here](https://github.com/maymd202/CALM_MultiFractalAnalysis/50_crop.py).
 
 ## To create a fine-tuned classifier:
-https://github.com/maymd202/peft/CALM_imclass.py
+We adapted code from the open-source PEFT repository for use in this project. Our modified implementation can be found [at this link](https://github.com/maymd202/peft/CALM_imclass.py).
+
+To run the code, please clone the full micro-sam repository and create an environment with the required dependencies before using the adapted script. Here is a link to the [original PEFT GitHub](https://github.com/huggingface/peft).
 
 Code adapted from: Mangrulkar S, Gugger S, Debut L, Belkada Y, Paul S, Bossan B, et al. PEFT: State-of-the-art parameter efficient fine-tuning methods Github 2022 [https://github.com/huggingface/peft]
 
