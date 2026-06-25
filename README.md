@@ -17,7 +17,7 @@ A simple script to standardize the size of the macules is found [here](https://g
 ## To create a fine-tuned classifier:
 We adapted code from the open-source PEFT repository for use in this project. Our modified implementation can be found [at this link](https://github.com/maymd202/peft/CALM_imclass.py).
 
-To run the code, please clone the full micro-sam repository and create an environment with the required dependencies before using the adapted script. Here is a link to the [original PEFT GitHub](https://github.com/huggingface/peft).
+To run the code, please clone the full PEFT repository and create an environment with the required dependencies before using the adapted script. Here is a link to the [original PEFT GitHub](https://github.com/huggingface/peft).
 
 Code adapted from: Mangrulkar S, Gugger S, Debut L, Belkada Y, Paul S, Bossan B, et al. PEFT: State-of-the-art parameter efficient fine-tuning methods Github 2022 [https://github.com/huggingface/peft]
 
