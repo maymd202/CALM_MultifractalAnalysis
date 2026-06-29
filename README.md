@@ -1,4 +1,4 @@
-# CALM_MultifracalAnalysis
+# CALM_MultifractalAnalysis
 
 Code to replicate results in paper "Quantitative Validation of the “Coastline” Heuristic for Café-au-Lait Macule Borders in Neurofibromatosis Type 1 and McCune-Albright Syndrome"
 
